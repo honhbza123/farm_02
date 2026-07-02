@@ -1,0 +1,6 @@
+{
+  "name": "AgriResearch CMS",
+  "description": "Agricultural research content management and analytics system for tracking crop varieties, growth metrics, irrigation efficiency, and field observations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
